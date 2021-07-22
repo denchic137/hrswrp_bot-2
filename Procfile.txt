@@ -1,0 +1,1 @@
+worcer: node main.js
